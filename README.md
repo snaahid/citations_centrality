@@ -1,4 +1,4 @@
-# MRP2021
+# Citations Centrality Measures
 This repository contains the datasets and the jupyter notebooks from my Major Research Project implemented in Spring/Summer 2021 towards a Masters in DataScience and Analytics 
 from Ryerson University, Canada.
 
